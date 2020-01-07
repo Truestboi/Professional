@@ -1,4 +1,4 @@
-# BEHOLD. My own creation! ...Mostly... Translators are hard, ok?
+# BEHOLD. my creation!
 import time
 #Morse Code Dictionary
 key = {"A":".-",
